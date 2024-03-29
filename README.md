@@ -156,7 +156,6 @@ endmodule
 
 # **Result**
 
-     Thus,the simulation and synthesis of  multiplier using vivado was successfully excecuted and verified.
-
+     Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
