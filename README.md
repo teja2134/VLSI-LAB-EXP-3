@@ -2,11 +2,11 @@ SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 # AIM: **
  To simulate and synthesis multiplier using vivado.
 
-**APPARATUS REQUIRED:**
+# **APPARATUS REQUIRED:**
 
 vivado 2023.2
   
-**PROCEDURE:**
+# **PROCEDURE:**
 
 STEP:1 Start the vivado software, Select and Name the New project.
 
@@ -23,7 +23,7 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 STEP:7 compare the output with truth table.
 
 
-**Logic Diagram**
+# **Logic Diagram**
 
 # 2 bit Multiplier
 
@@ -34,7 +34,7 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 
-**Verilog code**
+# **Verilog code**
 
 # 2 bit multiplier:
 
@@ -141,7 +141,7 @@ endmodule
 
 
 
-**Output Waveform**
+# **Output Waveform**
 
 # 2 bit multiplier:
 
@@ -154,7 +154,7 @@ endmodule
 <img width="791" alt="4bit" src="https://github.com/teja2134/VLSI-LAB-EXP-3/assets/161149578/4e49924a-4e27-4e8a-8438-b8f79a2132f9">
 
 
-**Result**
+# **Result**
 
      Thus,the simulation and synthesis of  multiplier using vivado was successfully excecuted and verified.
 
