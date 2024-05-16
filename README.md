@@ -146,7 +146,7 @@ fa fa8(w[11],x[3]&y[3],w[17],z[6],z[7]);
 
 endmodule
 
-# OUTPUT:
+OUTPUT:
 
 ![image](https://github.com/teja2134/VLSI-LAB-EXP-3/assets/161149578/983998cf-bde0-41a2-973e-a11b9437d734)
 
