@@ -148,7 +148,7 @@ endmodule
 
 # OUTPUT:
 
-![image](https://github.com/teja2134/VLSI-LAB-EXP-3/assets/161149578/591b9470-864e-4e1b-b39b-1a9ad843be50)
+![image](https://github.com/teja2134/VLSI-LAB-EXP-3/assets/161149578/983998cf-bde0-41a2-973e-a11b9437d734)
 
 
 # **Result**
